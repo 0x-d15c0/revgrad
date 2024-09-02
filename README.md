@@ -1,7 +1,7 @@
 # revgrad
 ![image](https://github.com/user-attachments/assets/c049a50c-b85e-4f1a-8b8f-e84c5f0f5c7c)
 
-<b>A simple backprop library heavily inspired from Andrej Karpathy's micrograd. Users can build a simple neural network using the library . Tests involve comparison with pytorch's autodiff functions as well.</b>
+<b>A simple autograd-backprop library heavily inspired from Andrej Karpathy's micrograd. Users can build a simple neural network using the library . Tests involve comparison with pytorch's autodiff functions as well.</b>
 
 ## Usage
 ```bash
